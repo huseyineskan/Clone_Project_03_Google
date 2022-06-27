@@ -1,2 +1,3 @@
-# google_new
-Google page new version
+# New Google Template
+
+This is new google html template :)
