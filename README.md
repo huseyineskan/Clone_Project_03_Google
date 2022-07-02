@@ -2,4 +2,4 @@
 
 This is new google html template :)
 
-![Demo](https://github.com/huseyineskan/google_new/blob/main/demo.png?raw=true)
+![Demo](https://github.com/huseyineskan/google_new/blob/main/img.png?raw=true)
